@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+newspaper3k
+transformers
+torch
+sentencepiece
+spacy
+pydantic
+pytest
+pytest-asyncio
+httpx
+pytest-cov
+pytest-mock
+requests-mock
