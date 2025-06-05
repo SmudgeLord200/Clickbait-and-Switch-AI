@@ -1,6 +1,8 @@
 # Clickbait & Switch AI
 
-Clickbait & Switch AI is a fullstack service designed to analyze news articles from URLs. It leverages various Natural Language Processing (NLP) models to provide insights such as summarization, sentiment analysis, bias classification, topic identification, and named entity recognition.
+Clickbait & Switch AI is a fullstack service designed to analyse news articles from URLs. It leverages various Natural Language Processing (NLP) models to provide insights such as summarization, sentiment analysis, bias classification, topic identification, and named entity recognition.
+
+Demo: https://drive.google.com/file/d/1vZyMiMuTljLZm5mR-yb-wBmrmMH6-FMh/view?usp=sharing
 
 ## Features
 
