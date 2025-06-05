@@ -109,7 +109,7 @@ const App = () => {
               },
             }}
           >
-            NewsGuard AI Analyser
+            Clickbait & Switch AI Analyser
           </Typography>
 
           <Stack

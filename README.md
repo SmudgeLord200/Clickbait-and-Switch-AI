@@ -1,6 +1,6 @@
-# NewsGuard AI
+# Clickbait & Switch AI
 
-NewsGuard AI is a fullstack service designed to analyze news articles from URLs. It leverages various Natural Language Processing (NLP) models to provide insights such as summarization, sentiment analysis, bias classification, topic identification, and named entity recognition.
+Clickbait & Switch AI is a fullstack service designed to analyze news articles from URLs. It leverages various Natural Language Processing (NLP) models to provide insights such as summarization, sentiment analysis, bias classification, topic identification, and named entity recognition.
 
 ## Features
 
@@ -36,7 +36,7 @@ NewsGuard AI is a fullstack service designed to analyze news articles from URLs.
 ## Project Structure
 
 ```
-NewsGuard-AI/
+Clickbait-and-Switch-AI/
 ├── backend/
 │   ├── app/
 │   │   ├── routes/
@@ -82,7 +82,7 @@ NewsGuard-AI/
 1.  **Clone the repository:**
     ```bash
     git clone <your-repository-url>
-    cd NewsGuard-AI/backend
+    cd Clickbait-and-Switch-AI/backend
     ```
 
 2.  **Create and activate a virtual environment:**
@@ -119,7 +119,7 @@ NewsGuard-AI/
 
 ### Backend
 
-From the `NewsGuard-AI/backend` directory:
+From the `Clickbait-and-Switch-AI/backend` directory:
 ```bash
 python main.py
 ```
@@ -127,7 +127,7 @@ The API will be accessible at `http://localhost:8000`.
 
 ### Frontend
 
-From the `NewsGuard-AI/frontend` directory (if it exists):
+From the `Clickbait-and-Switch-AI/frontend` directory (if it exists):
 ```bash
 npm run dev
 # or
@@ -150,13 +150,13 @@ The primary endpoint for analysis is:
 
 ## Running Tests (Backend)
 
-From the `NewsGuard-AI/backend` directory:
+From the `Clickbait-and-Switch-AI/backend` directory:
 ```bash
 pytest
 ```
 
 ## Running Tests (Frontend)
-From the `NewsGuard-AI/frontend` directory:
+From the `Clickbait-and-Switch-AI/frontend` directory:
 ```bash
 npm test
 ```

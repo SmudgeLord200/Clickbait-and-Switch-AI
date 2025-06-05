@@ -15,5 +15,5 @@ export default defineConfig({
       inline: [/^(?!.*vitest).*@mui\/.*/]
     }
   },
-  base: '/news-guard-ai/',
+  base: '/clickbait-and-switch-ai/',
 })

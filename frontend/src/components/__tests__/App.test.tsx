@@ -29,7 +29,7 @@ describe('App', () => {
   it('renders the main title and input field', () => {
     render(<App />);
     
-    expect(screen.getByText('NewsGuard AI Analyser')).toBeInTheDocument();
+    expect(screen.getByText('Clickbait & Switch AI Analyser')).toBeInTheDocument();
     expect(screen.getByLabelText('Enter article URL to scan...')).toBeInTheDocument();
     expect(screen.getByRole('button', { name: 'Scan' })).toBeInTheDocument();
   });

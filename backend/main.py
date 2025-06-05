@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 from app.routes import analyse
 
-app = FastAPI(title="NewsGuard AI API")
+app = FastAPI(title="Clickbait & Switch AI API")
 
 app.include_router(analyse.router)
 
